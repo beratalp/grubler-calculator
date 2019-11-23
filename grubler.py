@@ -1,4 +1,6 @@
-# !/usr/bin/env python3
+#  Copyright (c) 2019 BamBoost.
+#  Written by beratalp
+
 # This script determines if a given 3D kinematic chain is over-defined, fully defined or
 # under-defined using the Grübler's Criteria.
 
