@@ -20,5 +20,5 @@ elif system_dof < rhs:
     print("System is over-defined.")
 else:
     print("System is under-defined.")
-
+print("RHS = ", rhs)
 
